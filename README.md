@@ -22,6 +22,7 @@ ___________________
 
 Com um smartphone Android em mãos, você pode executar o app seguindo estas etapas:
 1. Acesse o link do download clicando [aqui](https://github.com/AlexFlorenco/astalania/releases/tag/APK)
+6. Faça download dos targets clicando [aqui](https://github.com/AlexFlorenco/astalania/releases/download/DOCS/Targets.Animais.Astalania.pdf)
 3. Você irá baixar os arquivos `AstalaniaHub.apk` e `ComplementoRA.apk`
 4. Abra os arquivos e permita quaisquer avisos de segurança do Android
 5. Clique em Instalar
@@ -43,11 +44,12 @@ $ flutter pub get
 3. Ao abrir o Xcode, edite o Schema como Release, e desative o Debug executable
 4. Instale a primeira parte do app
 5. Acesse o link do download do complemento RA clicando [aqui](https://github.com/AlexFlorenco/astalania/releases/tag/iOS)
-6. Você irá baixar o arquivo `ios.zip`
-7. Descompacte e entre na pasta
-8. Abra o arquivo `Unity-iPhone.xcodeproj`
-9. Ao abrir o Xcode, edite o Schema como Release, e desative o Debug executable
-10. Instale o app no seu dispositivo iOS
+6. Faça download dos targets clicando [aqui](https://github.com/AlexFlorenco/astalania/releases/download/DOCS/Targets.Animais.Astalania.pdf)
+7. Você irá baixar o arquivo `ios.zip`
+8. Descompacte e entre na pasta
+9. Abra o arquivo `Unity-iPhone.xcodeproj`
+10. Ao abrir o Xcode, edite o Schema como Release, e desative o Debug executable
+11. Instale o app no seu dispositivo iOS
 
 <br>
 
